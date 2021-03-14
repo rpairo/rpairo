@@ -7,3 +7,6 @@ I am a software engineer who has been enjoying 6+ years of experience coding iOS
 
 # ☕️ Weekly Development Breakdown
 ![Raúl's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rpairo)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
