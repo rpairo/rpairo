@@ -10,10 +10,10 @@ I am a software engineer who has been enjoying 6+ years of experience coding iOS
 
 <!--START_SECTION:waka-->
 ```text
-Swift                 2 hrs 11 mins   ████████████████████░░░░░   79.75 % 
-Other                 23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Sketch Drawing        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Sublime Text Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-XML                   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Swift                 8 hrs 53 mins   ███████████████████████▓░   94.02 % 
+Other                 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Sketch Drawing        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Sublime Text Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+XML                   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 <!--END_SECTION:waka-->
