@@ -10,6 +10,6 @@ I am a software engineer who has been enjoying 6+ years of experience coding iOS
 
 <!--START_SECTION:waka-->
 ```text
-Swift   30 hrs 18 mins  █████████████████████████   100.00 % 
+Swift   25 hrs 59 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
