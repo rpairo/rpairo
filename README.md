@@ -1,9 +1,15 @@
-# Hi, I'm Raúl 👋🏻
+## 📂 Core Engineering Footprint
 
-I am a software engineer who has been enjoying 9+ years of experience coding iOS applications solving real-life problems.
+### 🚀 High-Scale SDK Platforms & Integration Frameworks
+*Engineering core component architectures, platform consolidations, and integration layers deployed globally.*
 
-# 👨🏻‍💻 Yearly Stats
-![Raúl's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpairo&show_icons=true&count_private=true&hide=stars&v=5)
+* **Platform Consolidation**: Led the client-side platform consolidation of 3 acquired enterprise products across **13M+ active users**, contributing to technical design documents and building consensus across 4 engineering teams to eliminate 50% of the legacy codebase.
+* **Infrastructure & Compliance**: Owned the delivery and optimization of high-scale biometric SDK components deployed across Tier-1 financial institutions (HSBC, Santander), ensuring strict SOC2/PCI compliance on resource-constrained devices.
+* **Resilience Engines**: Designed and implemented offline-first transaction synchronization engines leveraging structural resilience patterns (bulkhead isolation, retry mechanisms) to maintain absolute data integrity.
 
-# ☕️ Weekly Development Breakdown
-[![Raúl's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rpairo)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 🛠️ Technical Execution & Operational Alignment
+
+* **Core Stack**: Python | Swift | C#/.NET | Azure Cloud.
+* **Operations & Observability**: Full DRI ownership across high-scale platform releases, maintaining a 99.9% crash-free SLA via structured observability, OpenTelemetry integration, and Sev2 postmortem execution.
